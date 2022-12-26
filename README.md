@@ -1,19 +1,36 @@
 # javaWeb_Course_design
+
 javaWeb的课设，医院管理系统
 
+
 项目名：ProClinic
+
 作者：Atmujie
+
 jdk-version：13
+
 Tomcat-version：8.5.82
+
 依赖管理：Maven
+
 持久化：Mysql5
+
 数据库名：proclinic
+
 数据库用户名：root，密码：atmujie
+
 Web框架：JavaSSM
+
 数据渲染：Thymeleaf
 
+
 文件路径：
+
 java源码：src\ProClinic
-sql转储文件：src\proclinic.sql
+
+sql转储文件：proclinic.sql
+
 HTML页面位置：src\ProClinic\src\main\resources\templates
+
 css\js文件位置：src\ProClinic\web
+
